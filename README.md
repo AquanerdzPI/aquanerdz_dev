@@ -35,24 +35,24 @@ Node.js instalado na máquina
 #### Passo a Passo
 Clone o repositório:  
 
-bash  
+**no git bash:**
 Copiar código  
-git clone https://github.com/seu-usuario/seu-repositorio.git  
+*git clone https://github.com/seu-usuario/seu-repositorio.git*  
 cd seu-repositorio  
 Instale as dependências:  
 
 Para o backend:  
 
-bash
-Copiar código
-cd backend
-npm install
+- editor de texto (recomendação VS code)
+- github
+- acesso a internet
+
 Para o frontend:
 
-bash
-Copiar código
-cd frontend
-npm install
+- editor de texto (recomendação VS code)
+- github
+- acesso a internet
+  
 Configure as variáveis de ambiente:
 
 Crie um arquivo .env na pasta backend e configure as variáveis de ambiente necessárias:
@@ -64,24 +64,27 @@ DB_CONNECTION_STRING=your_database_connection_string
 [Outras variáveis]
 Execute o servidor e o frontend:
 
-Para iniciar o backend:
+### Iniciando o projeto
 
-bash
-Copiar código
-cd backend
-npm start
-Para iniciar o frontend:
+**Para iniciar o backend:**
 
-bash
-Copiar código
-cd frontend
-ng serve
-Acesse o site:
+1. git bash
+2. Copiar código (back-end)
+3. Entre na pasta backend
+4. Digite "npm start"
 
-O frontend estará disponível em http://localhost:4200.
+**Para iniciar o frontend:**
 
-Contribuição
-Sinta-se à vontade para contribuir com este projeto. Para isso, siga os passos abaixo:
+1. git bash
+2. Copiar código (front-end)
+3. Entre na pasta frontend
+4. Digite "ng serve"
+5. Acesse o site
+
+*O frontend estará disponível em http://localhost:4200.*
+
+## Contribuição:
+*Sinta-se à vontade para contribuir com este projeto. Para isso, siga os passos abaixo:*
 
 Faça um fork do projeto.
 Crie uma branch para sua feature (git checkout -b minha-feature).
