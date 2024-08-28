@@ -34,20 +34,21 @@ Node.js instalado na máquina
 [Outros pré-requisitos, ex.: Docker, Banco de Dados configurado, etc.]  
 #### Passo a Passo
 Clone o repositório:  
-
-bash  
+  
 Copiar código  
-git clone https://github.com/seu-usuario/seu-repositorio.git  
-cd seu-repositorio  
-Instale as dependências:  
+`git clone https://github.com/seu-usuario/seu-repositorio.git  `
+`cd seu-repositorio `
 
-Para o backend:  
+#### Instale as dependências:  
+
+**Para o backend:**   
 
 bash
 Copiar código
 cd backend
 npm install
-Para o frontend:
+
+**Para o frontend:**
 
 bash
 Copiar código
