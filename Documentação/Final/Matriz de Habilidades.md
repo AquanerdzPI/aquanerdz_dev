@@ -13,10 +13,10 @@
   <tbody>
     <tr>
       <td>Figma</td>
-      <td style="background-color: #72a3c8;">5</td> //Dani V
-      <td style="background-color: #cde269;">4</td> //Felipe
-      <td style="background-color: #63c384;">4</td> //Fernanda
-      <td style="background-color: #72a3c8;">5</td> //Jacqueline
+      <td style="background-color: #72a3c8;">5</td> 
+      <td style="background-color: #cde269;">4</td>
+      <td style="background-color: #63c384;">4</td>
+      <td style="background-color: #72a3c8;">5</td>
     </tr>
     <tr>
       <td>HTML</td>
